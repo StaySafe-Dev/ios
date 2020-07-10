@@ -155,6 +155,30 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>FSCalendar.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3JQSF5VGAD</string>
+						<key>name</key>
+						<string>INTEGRASI MEDIA KREASI, PT</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
+						<key>dateExpires</key>
+						<string>2/8/23</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>GoogleUtilities.framework</string>
 					<key>team</key>
 					<dict>

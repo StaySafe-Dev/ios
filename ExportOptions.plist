@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://drive.google.com/drive/folders/1pDHooYfAaUalesIq07S8hJld8tDqCn0O?usp=sharing</string>
+		<string>https://staysafe-dev.github.io/ios/StaySafeApp.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://drive.google.com/file/d/17moZ6-qUIc3V4eWlwSgWee0zhwUZHmYp/view?usp=sharing</string>
+		<string>https://staysafe-dev.github.io/ios/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://drive.google.com/file/d/1uB_YC9YbPVfQ5UbZ_0ig1TXzI4NxnF6u/view?usp=sharing</string>
+		<string>https://staysafe-dev.github.io/ios/image.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
