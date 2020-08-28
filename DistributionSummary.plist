@@ -297,7 +297,7 @@
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>StaySafeApp.app</string>
+			<string>StaySafe.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>

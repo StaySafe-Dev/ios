@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>id.staysafe.iosmobile</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>2.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>StaySafeApp</string>
+				<string>StaySafe</string>
 			</dict>
 		</dict>
 	</array>
