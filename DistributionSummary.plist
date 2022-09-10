@@ -9,14 +9,16 @@
 			<array>
 				<string>arm64</string>
 			</array>
+			<key>buildNumber</key>
+			<string>7</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+				<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 				<key>dateExpires</key>
-				<string>1/3/24</string>
+				<string>24/10/24</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>Cloud Managed iOS Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -25,14 +27,16 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Alamofire.framework</string>
@@ -43,20 +47,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>5.1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CryptoSwift.framework</string>
@@ -67,20 +75,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.4.2</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1.0.7</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>EstimoteBluetoothScanning.framework</string>
@@ -91,20 +103,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.0.7</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>EstimoteProximitySDK.framework</string>
@@ -115,20 +131,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.7.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
@@ -139,20 +159,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.2.8</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FSCalendar.framework</string>
@@ -163,20 +187,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>2.8.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
@@ -187,20 +215,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>6.6.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SDWebImage.framework</string>
@@ -211,20 +243,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>5.8.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftyJSON.framework</string>
@@ -235,20 +271,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>5.0.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
@@ -259,20 +299,24 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>1.30905.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>0AA5D57C9A9033B8DB55AE4979545E285EC4864B</string>
+						<string>455E0C5A47CC5C0221B316B29515437ECCF45EAF</string>
 						<key>dateExpires</key>
-						<string>1/3/24</string>
+						<string>24/10/24</string>
 						<key>type</key>
-						<string>iOS Distribution</string>
+						<string>Cloud Managed iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>protobuf.framework</string>
@@ -283,6 +327,8 @@
 						<key>name</key>
 						<string>INTEGRASI MEDIA KREASI, PT</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>3.11.4</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
@@ -301,7 +347,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>60376725-48f8-48d2-bea4-6556adb866ba</string>
+				<string>9bf6e287-c41d-40ea-a15d-08470ec124ad</string>
+				<key>dateExpires</key>
+				<string>10/09/23</string>
 				<key>name</key>
 				<string>iOS Team Inhouse Provisioning Profile: id.staysafe.iosmobile</string>
 			</dict>
@@ -312,6 +360,8 @@
 				<key>name</key>
 				<string>INTEGRASI MEDIA KREASI, PT</string>
 			</dict>
+			<key>versionNumber</key>
+			<string>2.2.1</string>
 		</dict>
 	</array>
 </dict>
