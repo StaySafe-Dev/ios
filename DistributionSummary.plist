@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>7</string>
+			<string>8</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -347,9 +347,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>9bf6e287-c41d-40ea-a15d-08470ec124ad</string>
+				<string>d1e5af87-dd0d-4935-881b-fe8d9904e99b</string>
 				<key>dateExpires</key>
-				<string>10/09/23</string>
+				<string>14/11/23</string>
 				<key>name</key>
 				<string>iOS Team Inhouse Provisioning Profile: id.staysafe.iosmobile</string>
 			</dict>
